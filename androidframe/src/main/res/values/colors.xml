@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>    
+ 
+    <color name="dark_gray">#333333</color>
+  
+     
+      <!-- 稍微淡的红色 -->
+    <color name="jiaodan_red">#F95939</color>
+    <color name="qian_red">#FA593B</color>
+    <color name="blue">#40BE5A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#C4C4C4</color> 
+    
+    <!-- 灰白色背景 -->
+    <color name="greyish_white">#F2F2F2</color>
+    <!-- 灰黑 色 文字 -->
+    <color name="gray_black">#ABABAB</color>
+    <!-- 淡绿色 文字 -->
+    <color name="half_blue">#8000DB37</color>
+    <!-- 淡灰色 -->
+    <color name="dan_gray">#F2F2F2</color>
+    <!-- 天蓝色 -->
+    <color name="sky_blue">#517EB7</color>
+	<!-- 白灰色 -->
+    <color name="bai_gray">#D8D8D8</color>
+    <!-- 浅灰色 -->
+    <color name="shallow_gray">#F2F2F2</color>
+    <!-- 深灰色 -->
+    <color name="shen_gray">#5F5F5F</color>
+    <!-- 浅灰色 -->
+    <color name="tab_bac">#EAEAEA</color>
+    <!-- 浅灰色 -->
+    <color name="tab_fenge">#DDDDDD</color>
+	<!-- 深灰色字体 -->
+    <color name="shen_hui_color">#707071</color>
+    <!-- 深黑 -->
+    <color name="shen_hei">#585858</color>
+    <!-- 左边信息说明的颜色 -->
+    <color name="name_gray">#6E6E6E</color>
+    <!-- 灰色—diyname背景颜色 -->
+    <color name="diy_gray">#E1E1E1</color>
+     
+     
+</resources>

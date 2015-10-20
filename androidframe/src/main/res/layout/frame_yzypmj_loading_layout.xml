@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+      
+         
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/dan_gray"
+        android:id="@+id/frame_rl_loading_content"
+        >
+  
+    </RelativeLayout>
+     <ProgressBar  
+        
+        android:layout_centerInParent="true"
+        android:id="@+id/loadProgressBar"  
+        android:layout_width="@dimen/x60"  
+        android:layout_height="@dimen/x60"  
+        android:indeterminateDrawable="@drawable/frame_yzypmj_progressbar"
+        
+         />
+</RelativeLayout>

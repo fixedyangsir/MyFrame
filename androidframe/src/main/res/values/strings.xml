@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidFrame</string>
+    <string name="error_net_tip">网络连接错误</string>
+</resources>
